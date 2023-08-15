@@ -1,0 +1,5 @@
+{{#user}}
+Name: Nikita Bisht
+Skills:HTML, CSS,JS,Django,Python 
+Email:khaynikita2003@gmail.com
+{{/user}}
